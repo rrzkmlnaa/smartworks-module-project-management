@@ -1,0 +1,11 @@
+node_modules
+.vscode
+src
+styles
+.swc
+coverage
+jest.*
+.eslint.jest
+.eslintignore
+.editorconfig
+.next/cache
